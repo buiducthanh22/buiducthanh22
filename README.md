@@ -29,6 +29,15 @@
   </a>
 </p>
 
+## Skills:
+<p align="center">
+  <img src="https://img.icons8.com/color/48/null/python--v1.png"/>
+  <img src="https://img.icons8.com/fluency/48/null/my-sql.png"/>
+  <img src="https://img.icons8.com/color/48/null/pycharm.png"/>
+  <img src="https://img.icons8.com/fluency/48/null/anaconda--v2.png"/>
+</p>
+
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
