@@ -8,7 +8,7 @@
 
 - ✍ I'm a student of: [FPT University](https://daihoc.fpt.edu.vn/) (FPT).
 
-- 🌱 I’m currently learning **Artificial Intelligence. **
+- 🌱 I’m currently learning **Artificial Intelligence.**
 
 <br />
 
