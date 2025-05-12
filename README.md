@@ -24,7 +24,7 @@
   <a href="https://github.com/buiducthanh22" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="mailto:buiducthanh1593@gmail.com" alt="Email">
+  <a href="mailto:thanhbd.work@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
